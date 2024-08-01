@@ -9,7 +9,7 @@
 
 <h1>Speech Recognition with Python</h1>
 
-<p>This repository demonstrates how to perform speech recognition using Python's <code>speech_recognition</code> library. The example provided converts speech from an audio file into text using the Bing Speech API.</p>
+<p>This repository demonstrates how to perform speech recognition using Python's <code>speech_recognition</code> library</p>
 
 <h2>Prerequisites</h2>
 
