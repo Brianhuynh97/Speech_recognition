@@ -24,13 +24,7 @@
 <pre><code>pip install SpeechRecognition
 </code></pre>
 
-<p>You will also need a Bing Speech API key, which you can obtain from the <a href="https://portal.azure.com/">Microsoft Azure Portal</a>.</p>
-
 <h2>Setup</h2>
-
-<ol>
-    <li>Clone this repository:</li>
-</ol>
 
 <pre><code>git clone https://github.com/Brianhuynh97/Speech_recognition.git
 cd Speech_recognition
@@ -40,7 +34,7 @@ cd Speech_recognition
 
 <p>Run the script using Python:</p>
 
-<pre><code>python speech_recognition_example.py
+<pre><code>python Speech_recognition.py
 </code></pre>
 
 <h2>Troubleshooting</h2>
