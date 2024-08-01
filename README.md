@@ -26,7 +26,7 @@ cd Speech_recognition
 
 <p>Run the script using Python:</p>
 
-<pre><code>python Speech_recognition.py
+<pre><code>python translation_project.py
 </code></pre>
 
 <h2>Troubleshooting</h2>
