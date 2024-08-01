@@ -32,8 +32,8 @@
     <li>Clone this repository:</li>
 </ol>
 
-<pre><code>git clone https://github.com/your-username/speech-recognition-python.git
-cd speech-recognition-python
+<pre><code>git clone https://github.com/Brianhuynh97/Speech_recognition.git
+cd Speech_recognition
 </code></pre>
 
 <ol start="2">
